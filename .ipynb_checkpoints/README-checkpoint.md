@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Fisica_Computacional
-Estos son los trabajos que realice durante el curso de Fisica Computaciona. La vercion buena XD.
-=======
 # septimo_semestre/Aqui se encontraran las tareas de los temas vistos en la clase de Fisica Computacional del semestre de 2025-2(incia en enero de 2025, finaliza junio de 2025).
 
 # Tema 1: Introduccion a Python
@@ -17,4 +13,3 @@ Estos son los trabajos que realice durante el curso de Fisica Computaciona. La v
 # Tema 6: Sistemas de ecuaciones
 
 # Tema 7: Ecuaciones diferenciales/ metodo de suavisacion
->>>>>>> d6ad281 (Estos son los trabajo que realice durante el Semestre 2025-2)
